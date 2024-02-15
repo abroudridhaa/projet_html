@@ -34,6 +34,10 @@ main{
     padding-left: 240px; 
     padding-right: 240px;
 }
+section{
+    padding-left: 120px;
+    padding-right: 120px;
+}
 footer{
     background-color:rgba(0, 0, 0, 0.548);
     color: rgb(153, 151, 151);
