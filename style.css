@@ -4,13 +4,18 @@ background-image: url(./images/background-adare-restaurant.jpg);
 background-size: cover;
 }
 .conatiner{
-    width:1024px;
+    width: 1024px;
     margin-left: auto;
     margin-right: auto;
 }
 header{
     height:118px;
     text-align: center;
+}
+.logo{
+    width: 250px;
+    height: 250px;
+    margin-top: -50px;
 }
 nav{
     height:40px;
