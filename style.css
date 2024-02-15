@@ -19,7 +19,6 @@ nav{
 main{
     height:400px;
     text-align: center;
-    padding-top: 80px;
     padding-left: 240px;
     padding-right: 240px;
 }
@@ -46,10 +45,18 @@ p{
     color: white !important;
 }
 .bg-black-opacity {
-    background-color: rgba(0, 0, 0, 0.338) !important; /* Set background color to black with opacity */
+    background-color: rgba(0, 0, 0, 0.338) !important; 
 }
 
 .navbar-nav > .nav-item > .nav-link {
     color: #ffffff !important; 
     font-family: Arial, sans-serif !important; 
+}
+label{
+    color: white;
+}
+form {
+    background-color: rgba(0, 0, 0, 0.338);
+    padding: 20px; 
+    border-radius: 10px; 
 }
